@@ -13,38 +13,38 @@ classify tumors either benign or malignant.
 - Analysis and interpretations
 
 **Tools used:**
--Python
--Pandas
--NumPy
--Scikit-learn
--Matplotlib
--Seaborn
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
 
 **ML Models Used:**
--Logestic Regression 
--SVM 
--Random Forests
+- Logestic Regression 
+- SVM 
+- Random Forests
 
 LR and SVM was created alongside a confusion matrix to ensure accuracy
 
-|  Model     |   Accuracy  |
-____________________________
-| Logestic R |    0.9561   |
-| SVM        |    0.9438   | 
+ |  Model     |   Accuracy  |
+ ____________________________
+ | Logestic R |    0.9561   |
+ | SVM        |    0.9438   | 
 
 
 **Findings**:
--Logestic Regression achieved strongest accuracy amoung the tested models.
--Area Worst and Concave Points Worst were amoung the most important predictive features
--PCA showed Concave Points Mean contributed significantly to total variance.
--EDA revealed strong correlations between certain geometric tumor features.
+- Logestic Regression achieved strongest accuracy amoung the tested models.
+- Area Worst and Concave Points Worst were amoung the most important predictive features
+- PCA showed Concave Points Mean contributed significantly to total variance.
+- EDA revealed strong correlations between certain geometric tumor features.
 
 
 This project was completed as part of my GPIP internship. It demonstrates my ability to:
--Work with real datasets
--Build ML pipelines
--Visualize and interpret data
--Communicate results clearly
+- Work with real datasets
+- Build ML pipelines
+- Visualize and interpret data
+- Communicate results clearly
 
 
 Correlation Heatmap:
