@@ -28,7 +28,7 @@ classify tumors either benign or malignant.
 LR and SVM was created alongside a confusion matrix to ensure accuracy
 
  |  Model     |   Accuracy  |
- ____________________________
+ ----------------------------
  | Logestic R |    0.9561   |  
  | SVM        |    0.9438   | 
 
