@@ -5,12 +5,12 @@ This project Analyzes the Kaggle Wisconsin Breast Cancer Dataset and builds seve
 classify tumors either benign or malignant. 
 
 **Workflow includes:**
--Data Cleaning
--Exploratory Data Analysis (EDA
--ML Models 
--PCA decomposition and Variance analysis
--Feature Correlation and visualization
--Analysis and interpretations
+- Data Cleaning
+- Exploratory Data Analysis (EDA
+- ML Models 
+- PCA decomposition and Variance analysis
+- Feature Correlation and visualization
+- Analysis and interpretations
 
 **Tools used:**
 -Python
